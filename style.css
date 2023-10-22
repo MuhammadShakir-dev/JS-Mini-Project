@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rectangle{
+    width: 400px;
+    height: 200px;
+    border: 1px solid;
+}
